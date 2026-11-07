@@ -81,3 +81,4 @@ const CONFIG = {
     description: "2027년 1월 9일, 소중한 분들을 초대합니다."
   }
 };
+
